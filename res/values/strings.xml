@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <string name="hello">Hello World, Aye!</string>
+=======
+    <string name="hello">Hello World, Atiang!</string>
+>>>>>>> 4ad46cb3f0dc8cab276237cdf050f2555b36a241
     <string name="app_name">HelloWorld</string>
 </resources>
